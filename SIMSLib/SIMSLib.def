@@ -1,0 +1,8 @@
+LIBRARY SIMSLib
+DESCRIPTION 'This wheel create by BoKoIsMe'
+EXPORTS OpenDataBaseFile
+EXPORTS SaveDataBaseFile
+EXPORTS AppendRecord
+EXPORTS DeleteRecord
+EXPORTS GetRecord
+EXPORTS CRP
